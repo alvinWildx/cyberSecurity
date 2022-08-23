@@ -1,0 +1,32 @@
+#heading1{
+	font-family: "Snell Roundhan", cursive;
+	margin-left: 253px;
+	margin-top: -475px;
+	font-size: 110px;
+	cursor: pointer;
+}
+#headimg{
+	height: 590px;
+	width: 100%;
+}
+#heading2{
+	font-family: "Monaco", monospace;
+	font-size: 50px;
+	margin-left: 15px;
+}
+.agebutton{
+    margin-left: 25px;
+    font-size: 31px;
+    font-family: "verdana", serif;
+    border: solid;
+    padding: 20px;
+    background-color: white;
+    color: blue;
+    border-radius: 18PX;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+.agebutton:hover{
+	background-color: blue;
+	color: white;
+}
